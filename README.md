@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hrushirajg23
-- 👀 I’m interested in the linux-kernel
-- 🐧 I’m currently learning unix & linux internals,linux system programming. 
-- ✉️ I’m looking to collaborate on system software projects.
+- 🐧 I’m currently working/learning unix & linux internals. 
+
   
 
 <!---
