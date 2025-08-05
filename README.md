@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hrushirajg23
+- Hi, I’m hrushiraj
 - 🐧 I’m currently working/learning unix & linux internals. 
 
   
